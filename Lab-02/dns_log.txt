@@ -1,0 +1,11 @@
+DNS Query Results for: google.com
+========================================
+
+--- A Records ---
+142.250.67.78
+
+--- MX Records ---
+10 smtp.google.com.
+
+--- CNAME Records ---
+No CNAME records found for google.com.
